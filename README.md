@@ -21,7 +21,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone [https://github.com/NeuraSync/vehicle-health-monitoring-dashboard.git](https://github.com/coders2345/predictive-maintenance-for-cars.git)
+git clone [(https://github.com/coders2345/predictive-maintenance-for-cars.git)]
 cd vehicle-health-monitoring-dashboard
 Install Dependencies
 
